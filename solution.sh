@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 fileAmount=0
 for filename in *.jpg *.jpeg; do
 	((fileAmount++))
